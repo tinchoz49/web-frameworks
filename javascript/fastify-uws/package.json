@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fastify": "~4.26.0",
+    "@geut/fastify-uws": "~3.1.0"
+  }
+}
